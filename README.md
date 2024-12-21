@@ -6,9 +6,11 @@
 🛜​ Learning [CyberSecurity](https://tryhackme.com/r/p/venombraggard) via THM </br>
 🛠️​ Currently Studying all types of stuff related to C, C++, Python, Mobile Developement. </br>
 🧑‍💻 Doing some on-board programming in class with [TinkerCad](https://www.tinkercad.com/users/1mKlm0laHlE) </br>
+Blog : [Writeups](https://venombraggard.neocities.org/) </br>
+
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VBraggard) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VBraggard)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</br>
