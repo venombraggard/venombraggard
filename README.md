@@ -6,7 +6,7 @@
 🛜​ Learning [CyberSecurity](https://tryhackme.com/r/p/venombraggard) via THM </br>
 🛠️​ Currently Studying all types of stuff related to C, C++, Python, Mobile Developement. </br>
 🧑‍💻 Doing some on-board programming in class with [TinkerCad](https://www.tinkercad.com) </br>
-Blog : [Writeups](https://venombraggard.neocities.org/) </br>
+Blog : [Writeups]([https://venombraggard.neocities.org/](https://venombraggard.github.io/github-pages/) </br>
 
 
 ## 🌐 Socials:
